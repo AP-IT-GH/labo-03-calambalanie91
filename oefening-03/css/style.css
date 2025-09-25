@@ -1,0 +1,19 @@
+* {
+  border: 1px solid black;
+}
+
+nav {
+  margin-right: 50%;
+}
+
+section {
+  margin-right: 38%;
+}
+
+aside {
+  margin-right: 62%;
+}
+
+article {
+  border: 1px dotted red;
+}
